@@ -1,0 +1,25 @@
+{
+  "name": "apis-rest",
+  "version": "1.0.0",
+  "description": "API REST desarrollada para el taller de Sistemas de Información.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lnexotic/TallerApiRes_BarronGonzalezJoseAngel.git"
+  },
+  "keywords": ["nodejs", "express", "api", "rest"],
+  "author": "Barrón González José Ángel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lnexotic/TallerApiRes_BarronGonzalezJoseAngel/issues"
+  },
+  "homepage": "https://github.com/Lnexotic/TallerApiRes_BarronGonzalezJoseAngel#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}

@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este proyecto tiene como objetivo demostrar la comprensión y aplicación práctica de los conceptos fundamentales para el desarrollo de una API REST utilizando Node.js y Express, tal como se vio en el taller de la materia de Sistemas de Información.
 
 ---
 
-## 📦 Dependencias Utilizadas
+##  Dependencias Utilizadas
 
 El proyecto utiliza las siguientes dependencias principales:
 
@@ -23,7 +23,7 @@ Estas dependencias se instalan automáticamente al ejecutar `npm install` en la 
 
 ---
 
-## ⚙️ Cómo Ejecutar el Proyecto
+##  Cómo Ejecutar el Proyecto
 
 Sigue estos pasos para ejecutar la API localmente:
 
@@ -59,7 +59,7 @@ Sigue estos pasos para ejecutar la API localmente:
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 La estructura del proyecto es clara y organizada:
 ```

@@ -62,10 +62,11 @@ Sigue estos pasos para ejecutar la API localmente:
 ## 📁 Estructura del Proyecto
 
 La estructura del proyecto es clara y organizada:
-
+```
 TallerApiRes_BarronGonzalezJoseAngel/
 ├── index.js # Archivo principal donde se configura el servidor Express.
 ├── package.json # Define las dependencias y scripts del proyecto.
 ├── package-lock.json # Bloquea las versiones exactas de las dependencias.
 ├── .gitignore # Lista de archivos y carpetas que Git debe ignorar.
 └── README.md # Documentación del proyecto.
+```

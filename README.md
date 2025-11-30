@@ -55,16 +55,17 @@ Sigue estos pasos para ejecutar la API localmente:
 
 ---
 
-## ✅ Requisitos Técnicos Cumplidos
 
-Este proyecto cumple con los requisitos técnicos solicitados en el taller:
-
-*   **Endpoints REST:** Implementa los métodos HTTP básicos (GET, POST, PUT, DELETE) para gestionar recursos.
-*   **Middlewares:** Utiliza middlewares integrados de Express para manejar el análisis de JSON (`express.json()`) y para el manejo de errores.
-*   **Módulos de Node.js y Express:** Se hace uso extensivo de los módulos nativos de Node.js y del framework Express para la creación del servidor y la gestión de rutas.
 
 ---
 
 ## 📁 Estructura del Proyecto
 
 La estructura del proyecto es clara y organizada:
+
+TallerApiRes_BarronGonzalezJoseAngel/
+├── index.js # Archivo principal donde se configura el servidor Express.
+├── package.json # Define las dependencias y scripts del proyecto.
+├── package-lock.json # Bloquea las versiones exactas de las dependencias.
+├── .gitignore # Lista de archivos y carpetas que Git debe ignorar.
+└── README.md # Documentación del proyecto.
